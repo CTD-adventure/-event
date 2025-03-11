@@ -1,0 +1,17 @@
+E:\vsfiles\小项目练习\MyEventTest20250310\MyEventTest20250310\bin\Debug\net8.0-windows\MyEventTest20250310.exe
+E:\vsfiles\小项目练习\MyEventTest20250310\MyEventTest20250310\bin\Debug\net8.0-windows\MyEventTest20250310.deps.json
+E:\vsfiles\小项目练习\MyEventTest20250310\MyEventTest20250310\bin\Debug\net8.0-windows\MyEventTest20250310.runtimeconfig.json
+E:\vsfiles\小项目练习\MyEventTest20250310\MyEventTest20250310\bin\Debug\net8.0-windows\MyEventTest20250310.dll
+E:\vsfiles\小项目练习\MyEventTest20250310\MyEventTest20250310\bin\Debug\net8.0-windows\MyEventTest20250310.pdb
+E:\vsfiles\小项目练习\MyEventTest20250310\MyEventTest20250310\obj\Debug\net8.0-windows\MyEventTest20250310.Form1.resources
+E:\vsfiles\小项目练习\MyEventTest20250310\MyEventTest20250310\obj\Debug\net8.0-windows\MyEventTest20250310.Form2.resources
+E:\vsfiles\小项目练习\MyEventTest20250310\MyEventTest20250310\obj\Debug\net8.0-windows\MyEventTest20250310.csproj.GenerateResource.cache
+E:\vsfiles\小项目练习\MyEventTest20250310\MyEventTest20250310\obj\Debug\net8.0-windows\MyEventTest20250310.GeneratedMSBuildEditorConfig.editorconfig
+E:\vsfiles\小项目练习\MyEventTest20250310\MyEventTest20250310\obj\Debug\net8.0-windows\MyEventTest20250310.AssemblyInfoInputs.cache
+E:\vsfiles\小项目练习\MyEventTest20250310\MyEventTest20250310\obj\Debug\net8.0-windows\MyEventTest20250310.AssemblyInfo.cs
+E:\vsfiles\小项目练习\MyEventTest20250310\MyEventTest20250310\obj\Debug\net8.0-windows\MyEventTest20250310.csproj.CoreCompileInputs.cache
+E:\vsfiles\小项目练习\MyEventTest20250310\MyEventTest20250310\obj\Debug\net8.0-windows\MyEventTest20250310.dll
+E:\vsfiles\小项目练习\MyEventTest20250310\MyEventTest20250310\obj\Debug\net8.0-windows\refint\MyEventTest20250310.dll
+E:\vsfiles\小项目练习\MyEventTest20250310\MyEventTest20250310\obj\Debug\net8.0-windows\MyEventTest20250310.pdb
+E:\vsfiles\小项目练习\MyEventTest20250310\MyEventTest20250310\obj\Debug\net8.0-windows\MyEventTest20250310.genruntimeconfig.cache
+E:\vsfiles\小项目练习\MyEventTest20250310\MyEventTest20250310\obj\Debug\net8.0-windows\ref\MyEventTest20250310.dll
